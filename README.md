@@ -11,8 +11,6 @@ npm install
 npm start
 ```
 
-It exposes the following APIs
-
 ## What does it do
 
 It exposes the following APIs
